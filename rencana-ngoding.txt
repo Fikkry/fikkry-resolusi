@@ -1,0 +1,3 @@
+RENCANA NGODING
+-Menggunakan laravel
+-Menggunakan vujs
