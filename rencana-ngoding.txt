@@ -1,3 +1,5 @@
 RENCANA NGODING
 -Menggunakan laravel
+ *Membuat Basic CRUD
+
 -Menggunakan vujs
